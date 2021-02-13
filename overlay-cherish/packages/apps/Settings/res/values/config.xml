@@ -18,4 +18,7 @@
 
     <!-- Device specific doze package -->
     <string name="config_customDozePackage">com.custom.ambient.display/com.custom.ambient.display.DozeSettings</string>
+
+    <!-- FOD recognizing animation -->
+    <bool name="config_showFODAnimationSettings">true</bool>
 </resources>
