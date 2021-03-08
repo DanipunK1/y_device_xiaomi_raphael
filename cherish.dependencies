@@ -1,0 +1,13 @@
+[
+   {
+      "remote":"github",
+      "repository":"DanipunK1/hardware_qcom-caf_sm8150_media",
+      "target_path":"hardware/qcom-caf/sm8150/media",
+      "revision":"eleven"
+   },
+   {
+      "repository":"kdrag0n/proton-clang",
+      "target_path":"prebuilts/clang/host/linux-x86/clang-proton",
+      "branch":"master"
+   }
+]
