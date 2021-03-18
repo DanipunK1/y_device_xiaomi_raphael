@@ -30,7 +30,8 @@ TARGET_BOOT_ANIMATION_RES := 1080
 
 # Maintainer
 CHERISH_BUILD_TYPE := OFFICIAL
-PRODUCT_PROPERTY_OVERRIDES += \
+
+PRODUCT_GENERIC_PROPERTIES += \
     ro.cherish.maintainer=DanipunK1
 
 # Device identifier. This must come after all inclusions.
